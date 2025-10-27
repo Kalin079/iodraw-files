@@ -931,6 +931,9 @@
         <mxCell id="XDloj57Q66uloF7sjjHt-42" value="W4" style="strokeWidth=1;fontStyle=0;html=1;" vertex="1" parent="1">
           <mxGeometry x="1520" y="810" width="30" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="XDloj57Q66uloF7sjjHt-64" value="Task 13" style="align=left;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="780" y="1080" width="90" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
