@@ -934,6 +934,9 @@
         <mxCell id="XDloj57Q66uloF7sjjHt-64" value="单片机学习" style="align=left;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="710" y="830" width="90" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="XDloj57Q66uloF7sjjHt-65" value="单片机学习" style="align=left;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="710" width="60" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
