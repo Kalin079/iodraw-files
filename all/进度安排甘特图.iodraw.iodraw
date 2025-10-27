@@ -776,10 +776,10 @@
           <mxGeometry x="895" y="550" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7a8b956e7d50b54d-358" value="3D打印学习与试制" style="align=left;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;" parent="1" vertex="1">
-          <mxGeometry x="980" y="570" width="150" height="20" as="geometry" />
+          <mxGeometry x="980" y="590" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7a8b956e7d50b54d-359" value="零件组装与模块化堆叠" style="align=left;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;" parent="1" vertex="1">
-          <mxGeometry x="1035" y="590" width="150" height="20" as="geometry" />
+          <mxGeometry x="1040" y="610" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7a8b956e7d50b54d-360" value="Task 8" style="align=left;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;" parent="1" vertex="1">
           <mxGeometry x="1310" y="610" width="60" height="20" as="geometry" />
