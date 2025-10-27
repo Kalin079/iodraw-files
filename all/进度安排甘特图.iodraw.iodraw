@@ -857,7 +857,7 @@
           <mxGeometry x="845" y="810" width="220" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XDloj57Q66uloF7sjjHt-67" value="机器人性能测试" style="align=left;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;" vertex="1" parent="1">
-          <mxGeometry x="1055" y="830" width="140" height="20" as="geometry" />
+          <mxGeometry x="1055" y="830" width="155" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XDloj57Q66uloF7sjjHt-68" value="调整模型与堆叠方式" style="align=left;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="710" y="770" width="110" height="20" as="geometry" />
