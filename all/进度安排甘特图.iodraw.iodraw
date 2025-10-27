@@ -716,16 +716,16 @@
           <mxGeometry x="1095" y="610" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7a8b956e7d50b54d-359" value="零件组装与模块化堆叠" style="align=left;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;" parent="1" vertex="1">
-          <mxGeometry x="1100" y="630" width="150" height="20" as="geometry" />
+          <mxGeometry x="1130" y="630" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7a8b956e7d50b54d-360" value="仿真软件学习" style="align=left;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;" parent="1" vertex="1">
           <mxGeometry x="920" y="570" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7a8b956e7d50b54d-362" value="机器人系统测试与调整" style="align=left;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;" parent="1" vertex="1">
-          <mxGeometry x="1190" y="650" width="140" height="20" as="geometry" />
+          <mxGeometry x="1190" y="650" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7a8b956e7d50b54d-363" value="调整模型与堆叠方式" style="align=left;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;" parent="1" vertex="1">
-          <mxGeometry x="1270" y="670" width="280" height="20" as="geometry" />
+          <mxGeometry x="1300" y="670" width="250" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7a8b956e7d50b54d-364" value="中期答辩准备" style="align=left;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;" parent="1" vertex="1">
           <mxGeometry x="1380" y="690" width="140" height="20" as="geometry" />
