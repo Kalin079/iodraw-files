@@ -587,16 +587,16 @@
           <mxGeometry x="830" y="530" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7a8b956e7d50b54d-356" value="模型搭建" style="align=left;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;" parent="1" vertex="1">
-          <mxGeometry x="876.75" y="550" width="163.25" height="20" as="geometry" />
+          <mxGeometry x="876.75" y="550" width="123.25" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7a8b956e7d50b54d-357" value="静力学与运动学仿真分析" style="align=left;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;" parent="1" vertex="1">
           <mxGeometry x="1020" y="590" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7a8b956e7d50b54d-358" value="3D打印学习与制作" style="align=left;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;" parent="1" vertex="1">
-          <mxGeometry x="1095" y="610" width="100" height="20" as="geometry" />
+          <mxGeometry x="1160" y="610" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7a8b956e7d50b54d-359" value="零件组装与模块化堆叠" style="align=left;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;" parent="1" vertex="1">
-          <mxGeometry x="1130" y="630" width="150" height="20" as="geometry" />
+          <mxGeometry x="1220" y="630" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7a8b956e7d50b54d-360" value="仿真软件学习" style="align=left;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;" parent="1" vertex="1">
           <mxGeometry x="975" y="570" width="80" height="20" as="geometry" />
