@@ -788,7 +788,7 @@
           <mxGeometry x="1190" y="650" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7a8b956e7d50b54d-363" value="调整模型与堆叠方式，修改方案" style="align=left;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;" parent="1" vertex="1">
-          <mxGeometry x="1270" y="670" width="250" height="20" as="geometry" />
+          <mxGeometry x="1270" y="670" width="280" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7a8b956e7d50b54d-364" value="中期答辩准备" style="align=left;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;" parent="1" vertex="1">
           <mxGeometry x="1380" y="690" width="140" height="20" as="geometry" />
