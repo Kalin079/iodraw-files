@@ -296,7 +296,7 @@
           <mxGeometry x="1016" y="160" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VQ8tPbKTpwTpLrzFFIAO-30" value="对仿真结果进行分析，查看应力、变形情况，对屈服强度进行分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="160" width="100" height="30" as="geometry" />
+          <mxGeometry x="1150" y="150" width="150" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
