@@ -262,6 +262,9 @@
         <mxCell id="VQ8tPbKTpwTpLrzFFIAO-17" value="将几何模型离散划分为有限个单元" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1179" y="70" width="124" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="VQ8tPbKTpwTpLrzFFIAO-19" value="获取CAD模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="40" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
