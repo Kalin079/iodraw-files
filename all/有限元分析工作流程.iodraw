@@ -215,7 +215,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VQ8tPbKTpwTpLrzFFIAO-1" value="前处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="890" y="50" width="80" height="30" as="geometry" />
+          <mxGeometry x="920" y="50" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VQ8tPbKTpwTpLrzFFIAO-3" value="求解" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="200" width="80" height="30" as="geometry" />
