@@ -230,7 +230,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VQ8tPbKTpwTpLrzFFIAO-25" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="935" y="175" width="130" height="100" as="geometry" />
+          <mxGeometry x="935" y="202.5" width="130" height="45" as="geometry" />
         </mxCell>
         <mxCell id="VQ8tPbKTpwTpLrzFFIAO-4" value="后处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="870" y="210" width="80" height="30" as="geometry" />
