@@ -253,8 +253,11 @@
         <mxCell id="VQ8tPbKTpwTpLrzFFIAO-13" value="通过solidwork建立模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="VQ8tPbKTpwTpLrzFFIAO-15">
           <mxGeometry x="139" width="104" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="VQ8tPbKTpwTpLrzFFIAO-16" value="获取CAD模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VQ8tPbKTpwTpLrzFFIAO-16" value="网格划分" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1050" y="80" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VQ8tPbKTpwTpLrzFFIAO-17" value="获取CAD模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="30" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
