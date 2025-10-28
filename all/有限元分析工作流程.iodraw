@@ -175,7 +175,7 @@
             <mxPoint x="510" y="820" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ELuROfRh7jPEYIWg2EeA-398" value="绪论" style="rounded=0;whiteSpace=wrap;strokeColor=#000000;strokeWidth=2;fillColor=#3399FF;gradientColor=none;fontFamily=Garamond;fontSize=15;fontColor=#333333;align=center;labelBorderColor=none;labelBackgroundColor=none;fontStyle=7" parent="1" vertex="1">
+        <mxCell id="ELuROfRh7jPEYIWg2EeA-398" value="绪论" style="rounded=0;whiteSpace=wrap;strokeColor=#000000;strokeWidth=2;fillColor=#FFFFFF;gradientColor=none;fontFamily=Garamond;fontSize=15;fontColor=#333333;align=center;labelBorderColor=none;labelBackgroundColor=none;fontStyle=7" parent="1" vertex="1">
           <mxGeometry x="-50" y="120" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ELuROfRh7jPEYIWg2EeA-399" value="研究综述" style="rounded=0;whiteSpace=wrap;strokeColor=#000000;strokeWidth=2;fillColor=#3399FF;gradientColor=none;fontFamily=Garamond;fontSize=15;fontColor=#333333;align=center;labelBorderColor=none;labelBackgroundColor=none;fontStyle=7" parent="1" vertex="1">
