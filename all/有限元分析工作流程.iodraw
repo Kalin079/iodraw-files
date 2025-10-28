@@ -259,20 +259,17 @@
         <mxCell id="VQ8tPbKTpwTpLrzFFIAO-7" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="VQ8tPbKTpwTpLrzFFIAO-26">
           <mxGeometry x="50" width="50" height="47.5" as="geometry" />
         </mxCell>
-        <mxCell id="VQ8tPbKTpwTpLrzFFIAO-27" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1020" y="-39" width="266" height="189" as="geometry" />
-        </mxCell>
-        <mxCell id="VQ8tPbKTpwTpLrzFFIAO-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="VQ8tPbKTpwTpLrzFFIAO-27" source="VQ8tPbKTpwTpLrzFFIAO-9" target="VQ8tPbKTpwTpLrzFFIAO-11">
+        <mxCell id="VQ8tPbKTpwTpLrzFFIAO-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VQ8tPbKTpwTpLrzFFIAO-9" target="VQ8tPbKTpwTpLrzFFIAO-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VQ8tPbKTpwTpLrzFFIAO-9" value="定义材料属性" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="VQ8tPbKTpwTpLrzFFIAO-27">
-          <mxGeometry x="5" y="62" width="90" height="30" as="geometry" />
+        <mxCell id="VQ8tPbKTpwTpLrzFFIAO-9" value="定义材料属性" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1025" y="23" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VQ8tPbKTpwTpLrzFFIAO-11" value="设定参数：弹性模量、泊松比、密度、屈服强度、抗拉强度等" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="VQ8tPbKTpwTpLrzFFIAO-27">
-          <mxGeometry x="126" y="50.5" width="140" height="53" as="geometry" />
+        <mxCell id="VQ8tPbKTpwTpLrzFFIAO-11" value="设定参数：弹性模量、泊松比、密度、屈服强度、抗拉强度等" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1146" y="11.5" width="140" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="VQ8tPbKTpwTpLrzFFIAO-15" value="" style="group" vertex="1" connectable="0" parent="VQ8tPbKTpwTpLrzFFIAO-27">
-          <mxGeometry x="5" width="243" height="45" as="geometry" />
+        <mxCell id="VQ8tPbKTpwTpLrzFFIAO-15" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1025" y="-39" width="243" height="45" as="geometry" />
         </mxCell>
         <mxCell id="VQ8tPbKTpwTpLrzFFIAO-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="VQ8tPbKTpwTpLrzFFIAO-15" source="VQ8tPbKTpwTpLrzFFIAO-8" target="VQ8tPbKTpwTpLrzFFIAO-13">
           <mxGeometry relative="1" as="geometry" />
@@ -283,17 +280,17 @@
         <mxCell id="VQ8tPbKTpwTpLrzFFIAO-13" value="通过solidwork建立模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="VQ8tPbKTpwTpLrzFFIAO-15">
           <mxGeometry x="139" y="1.5" width="104" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="VQ8tPbKTpwTpLrzFFIAO-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="VQ8tPbKTpwTpLrzFFIAO-27" source="VQ8tPbKTpwTpLrzFFIAO-16" target="VQ8tPbKTpwTpLrzFFIAO-17">
+        <mxCell id="VQ8tPbKTpwTpLrzFFIAO-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VQ8tPbKTpwTpLrzFFIAO-16" target="VQ8tPbKTpwTpLrzFFIAO-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VQ8tPbKTpwTpLrzFFIAO-16" value="网格划分" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="VQ8tPbKTpwTpLrzFFIAO-27">
-          <mxGeometry x="5" y="119" width="90" height="30" as="geometry" />
+        <mxCell id="VQ8tPbKTpwTpLrzFFIAO-16" value="网格划分" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1025" y="80" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VQ8tPbKTpwTpLrzFFIAO-17" value="将几何模型离散划分为有限个单元" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="VQ8tPbKTpwTpLrzFFIAO-27">
-          <mxGeometry x="134" y="109" width="124" height="50" as="geometry" />
+        <mxCell id="VQ8tPbKTpwTpLrzFFIAO-17" value="将几何模型离散划分为有限个单元" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1154" y="70" width="124" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="VQ8tPbKTpwTpLrzFFIAO-19" value="施加载荷与约束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="VQ8tPbKTpwTpLrzFFIAO-27">
-          <mxGeometry y="159" width="100" height="30" as="geometry" />
+        <mxCell id="VQ8tPbKTpwTpLrzFFIAO-19" value="施加载荷与约束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="120" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
