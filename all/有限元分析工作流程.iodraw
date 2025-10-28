@@ -232,14 +232,23 @@
         <mxCell id="VQ8tPbKTpwTpLrzFFIAO-25" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="935" y="175" width="130" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="VQ8tPbKTpwTpLrzFFIAO-28" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="870" y="-39" width="416" height="189" as="geometry" />
+        <mxCell id="VQ8tPbKTpwTpLrzFFIAO-4" value="后处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="210" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VQ8tPbKTpwTpLrzFFIAO-1" value="前处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="VQ8tPbKTpwTpLrzFFIAO-28">
-          <mxGeometry y="89" width="80" height="30" as="geometry" />
+        <mxCell id="VQ8tPbKTpwTpLrzFFIAO-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VQ8tPbKTpwTpLrzFFIAO-29" target="VQ8tPbKTpwTpLrzFFIAO-30">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VQ8tPbKTpwTpLrzFFIAO-26" value="" style="group" vertex="1" connectable="0" parent="VQ8tPbKTpwTpLrzFFIAO-28">
-          <mxGeometry x="80" y="29" width="100" height="145" as="geometry" />
+        <mxCell id="VQ8tPbKTpwTpLrzFFIAO-29" value="结果分析与可视化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1016" y="160" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VQ8tPbKTpwTpLrzFFIAO-30" value="对仿真结果进行分析，查看应力、变形情况，对屈服强度进行分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="150" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VQ8tPbKTpwTpLrzFFIAO-1" value="前处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="50" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VQ8tPbKTpwTpLrzFFIAO-26" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="950" y="-10" width="100" height="145" as="geometry" />
         </mxCell>
         <mxCell id="VQ8tPbKTpwTpLrzFFIAO-5" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="VQ8tPbKTpwTpLrzFFIAO-26">
           <mxGeometry y="47.5" width="100" height="55" as="geometry" />
@@ -250,8 +259,8 @@
         <mxCell id="VQ8tPbKTpwTpLrzFFIAO-7" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="VQ8tPbKTpwTpLrzFFIAO-26">
           <mxGeometry x="50" width="50" height="47.5" as="geometry" />
         </mxCell>
-        <mxCell id="VQ8tPbKTpwTpLrzFFIAO-27" value="" style="group" vertex="1" connectable="0" parent="VQ8tPbKTpwTpLrzFFIAO-28">
-          <mxGeometry x="150" width="266" height="189" as="geometry" />
+        <mxCell id="VQ8tPbKTpwTpLrzFFIAO-27" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1020" y="-39" width="266" height="189" as="geometry" />
         </mxCell>
         <mxCell id="VQ8tPbKTpwTpLrzFFIAO-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="VQ8tPbKTpwTpLrzFFIAO-27" source="VQ8tPbKTpwTpLrzFFIAO-9" target="VQ8tPbKTpwTpLrzFFIAO-11">
           <mxGeometry relative="1" as="geometry" />
@@ -285,18 +294,6 @@
         </mxCell>
         <mxCell id="VQ8tPbKTpwTpLrzFFIAO-19" value="施加载荷与约束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="VQ8tPbKTpwTpLrzFFIAO-27">
           <mxGeometry y="159" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="VQ8tPbKTpwTpLrzFFIAO-4" value="后处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="870" y="210" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="VQ8tPbKTpwTpLrzFFIAO-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VQ8tPbKTpwTpLrzFFIAO-29" target="VQ8tPbKTpwTpLrzFFIAO-30">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="VQ8tPbKTpwTpLrzFFIAO-29" value="结果分析与可视化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1016" y="160" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="VQ8tPbKTpwTpLrzFFIAO-30" value="对仿真结果进行分析，查看应力、变形情况，对屈服强度进行分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1150" y="150" width="150" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
