@@ -239,10 +239,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VQ8tPbKTpwTpLrzFFIAO-29" value="结果分析与可视化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1015" y="160" width="110" height="30" as="geometry" />
+          <mxGeometry x="1020" y="180" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VQ8tPbKTpwTpLrzFFIAO-30" value="对仿真结果进行分析，查看应力、变形情况，对屈服强度进行分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1141" y="150" width="150" height="50" as="geometry" />
+          <mxGeometry x="1146" y="170" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="VQ8tPbKTpwTpLrzFFIAO-1" value="前处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="870" y="50" width="80" height="30" as="geometry" />
